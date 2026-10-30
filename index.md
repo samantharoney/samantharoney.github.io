@@ -27,6 +27,8 @@ I am particularly interested in the **beauty and consumer products industry** an
 *September 2026 – Present*
 
 - Support business development initiatives and organizational growth.
+- Manage fundraising efforts for chapters across 12 universities.
+- Establish business partnerships for the organization at both the chapter and national level.
 - Apply communication, planning, and relationship-building skills in a professional setting.
 
 ### Marketing and E-Commerce Associate — Properly Improper
@@ -68,6 +70,12 @@ Through my graduate coursework, I am developing skills in using data to understa
 
 I am building experience using `Python` and analytical tools to work with data, identify patterns, and communicate insights.
 
+### GitHub Pages E-Portfolio Guide
+
+This guide explains the process I followed to create and customize my GitHub Pages e-portfolio using the Minimal theme.
+
+[View My E-Portfolio Guide](portfolio-guide/)
+
 ## Career Interests
 
 My professional interests include:
@@ -79,14 +87,6 @@ My professional interests include:
 5. Entrepreneurship and innovation
 
 I am particularly interested in opportunities that combine **analytics, business, creativity, and technology** to solve meaningful business problems.
-
-## Projects
-
-### GitHub Pages E-Portfolio Guide
-
-This guide explains the process I followed to create and customize my GitHub Pages e-portfolio using the Minimal theme.
-
-[View My E-Portfolio Guide](portfolio-guide/)
 
 ## Connect With Me
 
