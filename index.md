@@ -80,6 +80,14 @@ My professional interests include:
 
 I am particularly interested in opportunities that combine **analytics, business, creativity, and technology** to solve meaningful business problems.
 
+## Projects
+
+### GitHub Pages E-Portfolio Guide
+
+This guide explains the process I followed to create and customize my GitHub Pages e-portfolio using the Minimal theme.
+
+[View My E-Portfolio Guide](portfolio-guide/)
+
 ## Connect With Me
 
 I am always interested in connecting with people working in supply chain, analytics, consumer brands, and related fields.
